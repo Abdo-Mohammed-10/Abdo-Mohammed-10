@@ -8,11 +8,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdo-mohammed-10" alt="abdo-mohammed-10" /></a> </p>
 
 - 🔭 I’m currently working on **working on graduating project .**
-
 - 🌱 I’m currently learning **learning AI , framework , other languages**
-
 - 💬 Ask me about **Python , c++**
 - 📫 How to reach me **(Telegram): @Abdulrahman_Mohammed_333**
+- Other skills: 🖌️ graphics design, ⚽️ football .
                                 <div align="right">
 <img align="right" height="150" src="https://media.giphy.com/media/xT1XGVp95GDPgFYmUE/giphy.gif"  />
 <br clear="both">
