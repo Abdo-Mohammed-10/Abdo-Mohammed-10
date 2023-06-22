@@ -1,5 +1,5 @@
 <h1 align="center">
-<p align="centre">  <img src="https://media.giphy.com/media/t6efUMcfDQul7lwqjT/giphy.gif" /> </p>
+<p align="centre">  <img src="https://media.giphy.com/media/t6efUMcfDQul7lwqjT/giphy.gif" width="960" /> </p>
   Hi 👋, I'm Abdulrahman Mohammed  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Twitter_Verified_Badge.svg/768px-Twitter_Verified_Badge.svg.png" height="22". </h1> 
     <param name="movie" value="https://www.flaticon.com/free-animated-icon/social-media_6172532?related_id=6172532"></param>
     <embed src="https://www.flaticon.com/free-animated-icon/social-media_6172532?related_id=6172532" ></embed>
