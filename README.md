@@ -10,11 +10,16 @@
 <h3 align="center">A Student of Computer Science And AI , Graphic Designer from Egypt .</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdo-mohammed-10" alt="abdo-mohammed-10" /></a> </p>
 
-- 🔭 I’m currently working on **working on graduating project .**
-- 🌱 I’m currently learning **learning AI , framework , other languages**
-- 💬 Ask me about **Python , c++**
-- 📫 How to reach me **(Telegram): @Abdulrahman_Mohammed_333**
-- 🌛 Fact about me : Alhamdulilah i'm Muslim . 
+- 🔭 I’m currently working on **working on graduating project .**        <img src= "https://media.giphy.com/media/Y4267ziibOdX3ZHLWC/giphy.gif" height="50" />
+
+- 🌱 I’m currently learning **learning AI , framework , other languages**    <img src= "https://media.giphy.com/media/LwBuVHh34nnCPWRSzB/giphy.gif" height="20" />
+
+- 💬 Ask me about **Python , c++**  <img src= "https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" height="20" />
+
+- 📫 How to reach me **(Telegram): @Abdulrahman_Mohammed_333**   <img src= "https://media.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif" height="20" />
+
+- 🌛 Fact about me : Alhamdulilah i'm Muslim . <img src= "https://media.giphy.com/media/fMy1A7xvX08tEOfGpt/giphy.gif" height="20" />
+
 - 👨‍🏫 My idol : the Prophet Muhammad .
 - 📚 My Favorite Books : Quran , Sahih al, Bukhari .
 - Other skills : 🖌️ graphics design, ⚽️ football .
