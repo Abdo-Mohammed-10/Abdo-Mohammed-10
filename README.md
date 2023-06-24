@@ -10,7 +10,8 @@
 
 
 <h3 align="center">A Student of Computer Science And AI , Graphic Designer from Egypt .</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdo-mohammed-10" alt="abdo-mohammed-10" /></a> </p>
+<p align="left">  
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abdo-Mohammed-10&theme=darkhub" alt="abdo-mohammed-10" /></a> </p>
 
 - 🔭 I’m currently working on **working on graduating project .**        <img src= "https://media.giphy.com/media/Y4267ziibOdX3ZHLWC/giphy.gif" height="50" />
 
