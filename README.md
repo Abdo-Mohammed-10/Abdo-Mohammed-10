@@ -1,5 +1,7 @@
 <h1 align="center">
-<p align="centre">  <img src="https://media.giphy.com/media/t6efUMcfDQul7lwqjT/giphy.gif" width="960" /> </p>
+<p align="centre">  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW1ua3k3OHpyOXdjOWE3azEwZWp5a3JmcmEycW9xMTk2NTNxY2pjMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AY1jxx2Jbu64FgZWPu/giphy.gif" width="1000" />
+ 
+</p>
   Abdulrahman Mohammed  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Twitter_Verified_Badge.svg/768px-Twitter_Verified_Badge.svg.png" height="22". 
                           </h1> 
                    <p align="centre">      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=500&width=435&lines=    Abdulrahman+Mohammed;       Computer+Science;Artificial+Intelligence+Engineering" alt="Typing SVG" /></a></a>
