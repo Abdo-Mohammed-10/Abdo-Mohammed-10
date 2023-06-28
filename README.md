@@ -28,7 +28,9 @@
 - Other skills : 🖌️ graphics design, ⚽️ football.<img src= "https://media.giphy.com/media/3oKIPzW69L9fkD2DhC/giphy.gif" height="40" />
 - <h3 align="left"> 💻 Workspaces:</h3>
 <img align="left" src="https://img.shields.io/badge/Ubuntu%2018.04-E95420?logo=ubuntu&logoColor=white&style=flat" /><img align="left" src="https://img.shields.io/badge/Windows%2010-0078D6?logo=windows&logoColor=white&style=flat" />
-
+<div align="center">
+![Abdo Mohammed github activity graph]<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdo-Mohammed-10&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true" />
+</div>
 
 <h3 align="centre">
 <img align="right" height="150" src="https://media.giphy.com/media/xT1XGVp95GDPgFYmUE/giphy.gif" width="500"  /> </h3>
