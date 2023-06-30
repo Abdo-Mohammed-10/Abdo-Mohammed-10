@@ -55,4 +55,14 @@
   </a>
   <a href="https://github.com/wervlad">
   </p>
+    <br>
+ <br>
+ <p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdo-Mohammed-10&layout=compact&hide=html&theme=dracula"/>
+ 
+  
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Abdo-Mohammed-10&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
+  </P><br>
+  
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/main/src/header_.png" />
+
