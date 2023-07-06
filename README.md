@@ -1,6 +1,5 @@
 <h1 align="center">
   <img src="https://www.bismillahcalligraphy.com/wp-content/uploads/2020/10/Why-Does-Muslim-Use-Calligraphic-Art-To-Represent-Islam-1.jpg" height="300" width="700" />
- 
 <p align="centre">  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW1ua3k3OHpyOXdjOWE3azEwZWp5a3JmcmEycW9xMTk2NTNxY2pjMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AY1jxx2Jbu64FgZWPu/giphy.gif" width="1000" />
  
 </p>
@@ -9,7 +8,6 @@
                    <p align="centre">      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=500&width=435&lines=    Abdulrahman+Mohammed;       Computer+Science;Artificial+Intelligence+Engineering" alt="Typing SVG" /></a></a>
     <param name="movie" value="https://www.flaticon.com/free-animated-icon/social-media_6172532?related_id=6172532"></param>
     <embed src="https://www.flaticon.com/free-animated-icon/social-media_6172532?related_id=6172532" ></embed>
-
 
 <h3 align="center">A Student of Computer Science And AI , Graphic Designer from Egypt .</h3>
 <p align="left">  
@@ -31,6 +29,7 @@
 - <h3 align="left"> 💻 Workspaces:</h3>
 <img align="left" src="https://img.shields.io/badge/Ubuntu%2018.04-E95420?logo=ubuntu&logoColor=white&style=flat" /><img align="left" src="https://img.shields.io/badge/Windows%2010-0078D6?logo=windows&logoColor=white&style=flat" />
 <div align="center">
+  <br>
 ![Abdo Mohammed github activity graph]<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdo-Mohammed-10&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true" />
 </div>
 
