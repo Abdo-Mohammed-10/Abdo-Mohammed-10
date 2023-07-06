@@ -1,4 +1,6 @@
 <h1 align="center">
+  <img src="https://www.bismillahcalligraphy.com/wp-content/uploads/2020/10/Why-Does-Muslim-Use-Calligraphic-Art-To-Represent-Islam-1.jpg" height="300" width="700" />
+ 
 <p align="centre">  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW1ua3k3OHpyOXdjOWE3azEwZWp5a3JmcmEycW9xMTk2NTNxY2pjMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AY1jxx2Jbu64FgZWPu/giphy.gif" width="1000" />
  
 </p>
