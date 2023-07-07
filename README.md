@@ -10,10 +10,7 @@
     <br>
     Contact With Me <img src="https://github.com/Abdo-Mohammed-10/Abdo-Mohammed-10/blob/main/chat.png" height="30" /> :
     <br>
-     <a href="https://api.whatsapp.com/qr/XIMG3GN7AXMXN1?autoload=1&app_absent=0" >
-    <img src="https://github.com/Abdo-Mohammed-10/Abdo-Mohammed-10/blob/main/whatsapp-icon.png" height="40"/>
-  </a> <a href="https://t.me/Abdulrahman_Mohammed_333" >
-    <img src="https://github.com/Abdo-Mohammed-10/Abdo-Mohammed-10/blob/main/bot%2Bchat%2Bmessage%2Btelegram%2Bicon-1320168256174387607.png" height="40"/>
+   
   </a>
     
 
