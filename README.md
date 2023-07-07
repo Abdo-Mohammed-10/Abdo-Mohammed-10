@@ -7,6 +7,15 @@
                    <p align="centre">      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=500&width=435&lines=    Abdulrahman+Mohammed;       Computer+Science;Artificial+Intelligence+Engineering" alt="Typing SVG" /></a></a>
     <param name="movie" value="https://www.flaticon.com/free-animated-icon/social-media_6172532?related_id=6172532"></param>
     <embed src="https://www.flaticon.com/free-animated-icon/social-media_6172532?related_id=6172532" ></embed>
+    <br>
+    Contact With Me <img src="https://github.com/Abdo-Mohammed-10/Abdo-Mohammed-10/blob/main/chat.png" height="30" /> :
+    <br>
+     <a href="https://api.whatsapp.com/qr/XIMG3GN7AXMXN1?autoload=1&app_absent=0" >
+    <img src="https://github.com/Abdo-Mohammed-10/Abdo-Mohammed-10/blob/main/whatsapp-icon.png" height="40"/>
+  </a> <a href="https://t.me/Abdulrahman_Mohammed_333" >
+    <img src="https://github.com/Abdo-Mohammed-10/Abdo-Mohammed-10/blob/main/bot%2Bchat%2Bmessage%2Btelegram%2Bicon-1320168256174387607.png" height="40"/>
+  </a>
+    
 
 <h3 align="center">A Student of Computer Science And AI , Graphic Designer from Egypt .</h3>
 <p align="left">  
