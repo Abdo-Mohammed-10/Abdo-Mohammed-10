@@ -8,9 +8,9 @@
     <param name="movie" value="https://www.flaticon.com/free-animated-icon/social-media_6172532?related_id=6172532"></param>
     <embed src="https://www.flaticon.com/free-animated-icon/social-media_6172532?related_id=6172532" ></embed>
     <br>
-    Contact With Me <img src="https://github.com/Abdo-Mohammed-10/Abdo-Mohammed-10/blob/main/chat.png" height="30" /> :
+    Contact With Me <img src="https://media.giphy.com/media/IfgYyHyuHvRYVxXrId/giphy.gif" height="30" /> :
     <br>
-   
+   <a href="https://api.whatsapp.com/send?phone=201224287853"><img src="https://github.com/Abdo-Mohammed-10/Abdo-Mohammed-10/blob/main/whatsapp.png" height="40"/></a> <a href="https://t.me/Abdulrahman_Mohammed_333"><img src="https://github.com/Abdo-Mohammed-10/Abdo-Mohammed-10/blob/main/telegram.png" height="40" /></a> 
   </a>
     
 
