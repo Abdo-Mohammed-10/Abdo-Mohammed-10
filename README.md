@@ -3,7 +3,7 @@
  
 </p>
   Abdulrahman Mohammed  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Twitter_Verified_Badge.svg/768px-Twitter_Verified_Badge.svg.png" height="22". 
-                          </h1> 
+                          </h1><br>
                    <p align="centre">      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=500&width=435&lines=    Abdulrahman+Mohammed;       Computer+Science;Artificial+Intelligence+Engineering" alt="Typing SVG" /></a></a>
     <param name="movie" value="https://www.flaticon.com/free-animated-icon/social-media_6172532?related_id=6172532"></param>
     <embed src="https://www.flaticon.com/free-animated-icon/social-media_6172532?related_id=6172532" ></embed>
