@@ -11,7 +11,6 @@
     Contact With Me <img src="https://media.giphy.com/media/IfgYyHyuHvRYVxXrId/giphy.gif" height="30" /> :
     <br>
     <a  href="https://www.upwork.com/freelancers/~013a3224f425aa57ba">
-    <a href="https://www.linkedin.com/in/abdulrahmanbenmohammed"><img src="https://github.com/Abdo-Mohammed-10/Abdo-Mohammed-10/blob/main/linkedin.png" height="40"/></a>
     <a href="https://api.whatsapp.com/send?phone=201224287853"><img src="https://github.com/Abdo-Mohammed-10/Abdo-Mohammed-10/blob/main/whatsapp.png" height="40"/></a> <a href="https://t.me/Abdulrahman_Mohammed_333"><img src="https://github.com/Abdo-Mohammed-10/Abdo-Mohammed-10/blob/main/telegram.png" height="40" /></a>
      <br>
      <a  href="https://g.dev/Abdulrahman-Mohammed"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Google_Developers_logo.svg" height="50" width="200"/>
