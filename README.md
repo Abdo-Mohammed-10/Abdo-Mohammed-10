@@ -14,10 +14,10 @@
     <a href="https://www.linkedin.com/in/abdulrahmanbenmohammed"><img src="https://github.com/Abdo-Mohammed-10/Abdo-Mohammed-10/blob/main/linkedin.png" height="40"/></a>
     <a href="https://api.whatsapp.com/send?phone=201224287853"><img src="https://github.com/Abdo-Mohammed-10/Abdo-Mohammed-10/blob/main/whatsapp.png" height="40"/></a> <a href="https://t.me/Abdulrahman_Mohammed_333"><img src="https://github.com/Abdo-Mohammed-10/Abdo-Mohammed-10/blob/main/telegram.png" height="40" /></a>
      <br>
-     <a  href="https://g.dev/Abdulrahman-Mohammed"> <img src="https://raw.githubusercontent.com/Abdo-Mohammed-10/Abdo-Mohammed-10/main/IMG_20230714_094222.png" height="50" width="200"/>
+     <a  href="https://g.dev/Abdulrahman-Mohammed"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Google_Developers_logo.svg" height="50" width="200"/>
   </a>
      <br>
-     <a  href="https://www.upwork.com/freelancers/~013a3224f425aa57ba"> <img src="https://github.com/Abdo-Mohammed-10/Abdo-Mohammed-10/blob/main/upwork.256x77.png" height="40" width="100"/>
+     <a  href="https://www.upwork.com/freelancers/~013a3224f425aa57ba"> <img src="https://github.com/Abdo-Mohammed-10/Abdo-Mohammed-10/blob/main/upwork.256x77.png" height="30" width="100"/>
   </a>
     
 
