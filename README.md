@@ -1,10 +1,18 @@
 <h1 align="center">
-<p align="centre">  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW1ua3k3OHpyOXdjOWE3azEwZWp5a3JmcmEycW9xMTk2NTNxY2pjMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AY1jxx2Jbu64FgZWPu/giphy.gif" width="1000" />
- 
+  <p align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW1ua3k3OHpyOXdjOWE3azEwZWp5a3JmcmEycW9xMTk2NTNxY2pjMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AY1jxx2Jbu64FgZWPu/giphy.gif" width="100%" style="max-width: 800px;" />
+  </p>
+  Abdulrahman Mohammed 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Twitter_Verified_Badge.svg/768px-Twitter_Verified_Badge.svg.png" height="22" />
+</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Abdulrahman+Mohammed;Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member" alt="Typing SVG" />
+  </a>
 </p>
-  Abdulrahman Mohammed  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Twitter_Verified_Badge.svg/768px-Twitter_Verified_Badge.svg.png" height="22". 
-                          </h1><br>
-                   <p align="centre">      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=500&width=435&lines=    Abdulrahman+Mohammed;       Computer+Science;Artificial+Intelligence+Engineering" alt="Typing SVG" /></a></a>
+<br>
+                   <p align="centre">  
     <param name="movie" value="https://www.flaticon.com/free-animated-icon/social-media_6172532?related_id=6172532"></param>
     <embed src="https://www.flaticon.com/free-animated-icon/social-media_6172532?related_id=6172532" ></embed>
     <br>
