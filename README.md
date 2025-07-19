@@ -3,7 +3,7 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW1ua3k3OHpyOXdjOWE3azEwZWp5a3JmcmEycW9xMTk2NTNxY2pjMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AY1jxx2Jbu64FgZWPu/giphy.gif" width="100%" style="max-width: 800px;" />
   </p>
   Abdulrahman Mohammed 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Twitter_Verified_Badge.svg/768px-Twitter_Verified_Badge.svg.png" height="2" width="25" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Twitter_Verified_Badge.svg/768px-Twitter_Verified_Badge.svg.png" height="25" width="25" />
 </h1>
 
 <p align="center">
@@ -13,14 +13,14 @@
 </p>
 <br>
                    <p align="centre">  
-    <param name="movie" value="https://www.flaticon.com/free-animated-icon/social-media_6172532?related_id=6172532" height="2" width="25"></param>
-    <embed src="https://www.flaticon.com/free-animated-icon/social-media_6172532?related_id=6172532" height="2" width="25" ></embed>
+    <param name="movie" value="https://www.flaticon.com/free-animated-icon/social-media_6172532?related_id=6172532" height="25" width="25"></param>
+    <embed src="https://www.flaticon.com/free-animated-icon/social-media_6172532?related_id=6172532" height="25" width="25" ></embed>
     <br>
-    My Profiles ( Click On Any Icon To Reach Me ) <img src="https://media.giphy.com/media/IfgYyHyuHvRYVxXrId/giphy.gif" height="2" width="25" /> :
+    My Profiles ( Click On Any Icon To Reach Me ) <img src="https://media.giphy.com/media/IfgYyHyuHvRYVxXrId/giphy.gif" height="25" width="25" /> :
     <br>
     <a  href="https://www.upwork.com/freelancers/~013a3224f425aa57ba">
-      <a href="https://www.linkedin.com/in/abdulrahmanbnmohammed/"><img src="https://github.com/Abdo-Mohammed-10/Abdo-Mohammed-10/blob/main/linkedin.png" height="2" width="25"/>
-    <a href="https://api.whatsapp.com/send?phone=201224287853"><img src="https://github.com/Abdo-Mohammed-10/Abdo-Mohammed-10/blob/main/whatsapp.png" height="2" width="25"/></a> <a href="https://t.me/Abdulrahman_Mohammed_333"><img src="https://github.com/Abdo-Mohammed-10/Abdo-Mohammed-10/blob/main/telegram.png" height="2" width="25" /></a>
+      <a href="https://www.linkedin.com/in/abdulrahmanbnmohammed/"><img src="https://github.com/Abdo-Mohammed-10/Abdo-Mohammed-10/blob/main/linkedin.png" height="25" width="25"/>
+    <a href="https://api.whatsapp.com/send?phone=201224287853"><img src="https://github.com/Abdo-Mohammed-10/Abdo-Mohammed-10/blob/main/whatsapp.png" height="25" width="25"/></a> <a href="https://t.me/Abdulrahman_Mohammed_333"><img src="https://github.com/Abdo-Mohammed-10/Abdo-Mohammed-10/blob/main/telegram.png" height="25" width="25" /></a>
      <br>
      <a  href="https://g.dev/Abdulrahman-Mohammed"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Google_Developers_logo.svg" height="50" width="200"/>
   </a>  <a  href="https://www.cloudskillsboost.google/public_profiles/f13942be-0329-458e-8b83-1361d76e7ec3"> <img src="https://github.com/Abdo-Mohammed-10/Abdo-Mohammed-10/blob/main/pngegg%20(1).png" height="50" width="200"/>
@@ -34,19 +34,19 @@
 <p align="left">  
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abdo-Mohammed-10&theme=darkhub" alt="abdo-mohammed-10" /></a> </p>
 
-- 🔭 I’m currently working on **working on graduating project .**        <img src= "https://media.giphy.com/media/Y4267ziibOdX3ZHLWC/giphy.gif" height="2" width="25" />
+- 🔭 I’m currently working on **working on graduating project .**        <img src= "https://media.giphy.com/media/Y4267ziibOdX3ZHLWC/giphy.gif" height="25" width="25" />
 
-- 🌱 I’m currently learning **learning AI , framework , other languages**    <img src= "https://media.giphy.com/media/LwBuVHh34nnCPWRSzB/giphy.gif" height="2" width="25"/>
+- 🌱 I’m currently learning **learning AI , framework , other languages**    <img src= "https://media.giphy.com/media/LwBuVHh34nnCPWRSzB/giphy.gif" height="25" width="25"/>
 
-- 💬 Ask me about **Python , c++**  <img src= "https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" height="2" width="25" />
+- 💬 Ask me about **Python , c++**  <img src= "https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" height="25" width="25" />
 
-- 📫 How to reach me **(Telegram): @Abdulrahman_Mohammed_333**   <img src= "https://media.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif" height="2" width="25" />
+- 📫 How to reach me **(Telegram): @Abdulrahman_Mohammed_333**   <img src= "https://media.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif" height="25" width="25" />
 
-- 🌛 Fact about me : Alhamdulilah i'm Muslim . <img src= "https://media.giphy.com/media/fMy1A7xvX08tEOfGpt/giphy.gif" height="2" width="25"/>
+- 🌛 Fact about me : Alhamdulilah i'm Muslim  <img src= "https://media.giphy.com/media/fMy1A7xvX08tEOfGpt/giphy.gif" height="25" width="25"/>
 
-- 👨‍🏫 My idol : the Prophet Muhammad . <img src= "https://3.bp.blogspot.com/-hDNn9d_IRDo/Woi4X55YczI/AAAAAAAAE6o/0zpzqFvJUewQUVCoHdf9nrphHSB-ESyOwCLcBGAs/s1600/PicsArt_02-17-11.18.29.png" height="2" width="25" />
-- 📚 My Favorite Books : Quran , Sahih al, Bukhari . <img src= "https://www.mta.sa/wp-content/uploads/2018/10/unnamed.png" height="2" width="25" />       <img src= "https://i.pinimg.com/originals/78/e0/28/78e028f10cc8079afea7f34071fce793.png" height="2" width="25" />
-- Other skills : 🖌️ graphics design, ⚽️ football.<img src= "https://media.giphy.com/media/3oKIPzW69L9fkD2DhC/giphy.gif" height="2" width="25" />
+- 👨‍🏫 My idol : the Prophet Muhammad . <img src= "https://3.bp.blogspot.com/-hDNn9d_IRDo/Woi4X55YczI/AAAAAAAAE6o/0zpzqFvJUewQUVCoHdf9nrphHSB-ESyOwCLcBGAs/s1600/PicsArt_02-17-11.18.29.png" height="25" width="25" />
+- 📚 My Favorite Books : Quran , Sahih al, Bukhari .  <img src= "https://i.pinimg.com/originals/78/e0/28/78e028f10cc8079afea7f34071fce793.png" height="25" width="25" />
+- Other skills : 🖌️ graphics design, ⚽️ football.<img src= "https://media.giphy.com/media/3oKIPzW69L9fkD2DhC/giphy.gif" height="25" width="25" />
 - <h3 align="left"> 💻 Workspaces:</h3>
 <img align="left" src="https://img.shields.io/badge/Ubuntu%2018.04-E95420?logo=ubuntu&logoColor=white&style=flat" /><img align="left" src="https://img.shields.io/badge/Windows%2010-0078D6?logo=windows&logoColor=white&style=flat" />
 <div align="center">
