@@ -1,89 +1,157 @@
-<h1 align="center">
-  <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW1ua3k3OHpyOXdjOWE3azEwZWp5a3JmcmEycW9xMTk2NTNxY2pjMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AY1jxx2Jbu64FgZWPu/giphy.gif" width="100%" style="max-width: 800px;" />
-  </p>
-  Abdulrahman Mohammed 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Twitter_Verified_Badge.svg/768px-Twitter_Verified_Badge.svg.png" height="25" width="25" />
-</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW1ua3k3OHpyOXdjOWE3azEwZWp5a3JmcmEycW9xMTk2NTNxY2pjMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AY1jxx2Jbu64FgZWPu/giphy.gif" width="100%" style="max-width: 800px;" alt="Coding Gif" />
+
+  <h1>Abdulrahman Mohammed <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Twitter_Verified_Badge.svg/512px-Twitter_Verified_Badge.svg.png" height="25" width="25" /></h1>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Abdulrahman+Mohammed;Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things;Machine+Learning+Enthusiast;Kaggle+Community+Member" alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/abdulrahmanbnmohammed/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=201224287853">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://t.me/Abdulrahman_Mohammed_333">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://g.dev/Abdulrahman-Mohammed">
+    <img src="https://img.shields.io/badge/Google%20Dev-4285F4?style=flat&logo=google-developers&logoColor=white" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~013a3224f425aa57ba">
+    <img src="https://img.shields.io/badge/UpWork-6FDA44?style=flat&logo=Upwork&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white" />
+  </a>
+</div>
+<hr/>
+
+<h3 align="center">🎓 Computer Science & AI Student | Graphic Designer</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Abdulrahman+Mohammed;Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member" alt="Typing SVG" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Abdo-Mohammed-10&theme=darkhub&no-frame=true&margin-w=15" alt="Trophies" />
   </a>
 </p>
-<br>
-                   <p align="centre">  
-    <param name="movie" value="https://www.flaticon.com/free-animated-icon/social-media_6172532?related_id=6172532" height="25" width="25"></param>
-    <embed src="https://www.flaticon.com/free-animated-icon/social-media_6172532?related_id=6172532" height="25" width="25" ></embed>
-    <br>
-    My Profiles ( Click On Any Icon To Reach Me ) <img src="https://media.giphy.com/media/IfgYyHyuHvRYVxXrId/giphy.gif" height="25" width="25" /> :
-    <br>
-    <a  href="https://www.upwork.com/freelancers/~013a3224f425aa57ba">
-      <a href="https://www.linkedin.com/in/abdulrahmanbnmohammed/"><img src="https://github.com/Abdo-Mohammed-10/Abdo-Mohammed-10/blob/main/linkedin.png" height="25" width="25"/>
-    <a href="https://api.whatsapp.com/send?phone=201224287853"><img src="https://github.com/Abdo-Mohammed-10/Abdo-Mohammed-10/blob/main/whatsapp.png" height="25" width="25"/></a> <a href="https://t.me/Abdulrahman_Mohammed_333"><img src="https://github.com/Abdo-Mohammed-10/Abdo-Mohammed-10/blob/main/telegram.png" height="25" width="25" /></a>
-     <br>
-     <a  href="https://g.dev/Abdulrahman-Mohammed"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Google_Developers_logo.svg" height="50" width="200"/>
-  </a>  <a  href="https://www.cloudskillsboost.google/public_profiles/f13942be-0329-458e-8b83-1361d76e7ec3"> <img src="https://github.com/Abdo-Mohammed-10/Abdo-Mohammed-10/blob/main/pngegg%20(1).png" height="50" width="200"/>
-  </a>
-     <br>
-     <a  href="https://www.upwork.com/freelancers/~013a3224f425aa57ba"> <img src="https://github.com/Abdo-Mohammed-10/Abdo-Mohammed-10/blob/main/upwork.256x77.png" height="30" width="100"/>
-  </a>
-    
 
-<h3 align="center">A Student of Computer Science And AI , Graphic Designer from Egypt .</h3>
-<p align="left">  
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abdo-Mohammed-10&theme=darkhub" alt="abdo-mohammed-10" /></a> </p>
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <h2>👨‍💻 About Me</h2>
+      <ul>
+        <li>🔭 I’m currently working on my <b>Graduation Project</b>.</li>
+        <li>🌱 I’m currently learning <b>Advanced AI Frameworks</b>.</li>
+        <li>💬 Ask me about <b>Python, C++, & Machine Learning</b>.</li>
+        <li>📫 Reach me on Telegram: <b>@Abdulrahman_Mohammed_333</b></li>
+        <li>🌛 <b>Fact:</b> Alhamdulilah I'm Muslim.</li>
+        <li>👨‍🏫 <b>My Idol:</b> The Prophet Muhammad (ﷺ).</li>
+        <li>📚 <b>Favorite Books:</b> Quran, Sahih al-Bukhari.</li>
+        <li>🖌️ <b>Other Skills:</b> Graphic Design, Football.</li>
+      </ul>
+    </td>
+    <td valign="center" width="40%">
+      <div align="center">
+        <img src="https://media.giphy.com/media/xT1XGVp95GDPgFYmUE/giphy.gif" width="100%" />
+      </div>
+    </td>
+  </tr>
+</table>
 
-- 🔭 I’m currently working on **working on graduating project .**        <img src= "https://media.giphy.com/media/Y4267ziibOdX3ZHLWC/giphy.gif" height="25" width="25" />
+<h3 align="left">💻 Workspaces</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
+</p>
 
-- 🌱 I’m currently learning **learning AI , framework , other languages**    <img src= "https://media.giphy.com/media/LwBuVHh34nnCPWRSzB/giphy.gif" height="25" width="25"/>
-
-- 💬 Ask me about **Python , c++**  <img src= "https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" height="25" width="25" />
-
-- 📫 How to reach me **(Telegram): @Abdulrahman_Mohammed_333**   <img src= "https://media.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif" height="25" width="25" />
-
-- 🌛 Fact about me : Alhamdulilah i'm Muslim  <img src= "https://media.giphy.com/media/fMy1A7xvX08tEOfGpt/giphy.gif" height="25" width="25"/>
-
-- 👨‍🏫 My idol : the Prophet Muhammad . <img src= "https://3.bp.blogspot.com/-hDNn9d_IRDo/Woi4X55YczI/AAAAAAAAE6o/0zpzqFvJUewQUVCoHdf9nrphHSB-ESyOwCLcBGAs/s1600/PicsArt_02-17-11.18.29.png" height="25" width="25" />
-- 📚 My Favorite Books : Quran , Sahih al, Bukhari .  <img src= "https://i.pinimg.com/originals/78/e0/28/78e028f10cc8079afea7f34071fce793.png" height="25" width="25" />
-- Other skills : 🖌️ graphics design, ⚽️ football.<img src= "https://media.giphy.com/media/3oKIPzW69L9fkD2DhC/giphy.gif" height="25" width="25" />
-- <h3 align="left"> 💻 Workspaces:</h3>
-<img align="left" src="https://img.shields.io/badge/Ubuntu%2018.04-E95420?logo=ubuntu&logoColor=white&style=flat" /><img align="left" src="https://img.shields.io/badge/Windows%2010-0078D6?logo=windows&logoColor=white&style=flat" />
+<h3 align="left">🛠 Languages and Tools</h3>
 <div align="center">
-  <br>
-![Abdo Mohammed github activity graph]<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdo-Mohammed-10&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true" />
+
+  <h4 align="center">🔹 Foundation & Data Engineering</h4>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=Apache%20Spark&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector_DBs-000000?style=flat-square&logo=chroma&logoColor=white" />
+
+  <br/>
+
+  <h4 align="center">🔹 Core ML & NLP</h4>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLTK-3e75a8?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sentence_Transformers-FF6F00?style=flat-square&logo=huggingface&logoColor=white" />
+
+  <br/>
+
+  <h4 align="center">🔹 GenAI, LLMs & Agents</h4>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LlamaIndex-121212?style=flat-square&logo=files&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/RAG-000000?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAGAS-FF4B4B?style=flat-square&logo=target&logoColor=white" />
+
+  <br/>
+
+  <h4 align="center">🔹 Training & Optimization</h4>
+  <img src="https://img.shields.io/badge/JAX-00C9A7?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeepSpeed-512BD4?style=flat-square&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Accelerate-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <br/>
+  <img src="https://img.shields.io/badge/LoRA_/_PEFT-FF6F00?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TorchScript_/_ONNX-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+
+  <br/>
+
+  <h4 align="center">🔹 MLOps & Production</h4>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat-square&logo=WeightsandBiases&logoColor=black" />
+  <img src="https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white" />
+
+</div>
+<br/>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
-<h3 align="centre">
-<img align="right" height="150" src="https://media.giphy.com/media/xT1XGVp95GDPgFYmUE/giphy.gif" width="500"  /> </h3>
-<br clear="both">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" height="40" width="40"/> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://s3.amazonaws.com/freebiesupply/large/2x/adobe-logo-transparent.png"  width="40" height="40"/><img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"  width="40" height="40"/> <img src="https://nektony.com/wp-content/uploads/2018/05/where-is-anaconda-located.png"  width="40" height="40"/> <img src="https://cedric.cnam.fr/vertigo/Cours/ml2/_static/jupyter_logo.png"  width="40" height="40"/> <img src="https://axoft.ua/wp-content/uploads/2018/09/PyCharm_Logo-300x300.png"  width="40" height="40"/> <img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png" width="70" height="40 /></a></p>
+<br/>
 
-<p align="center">
-  <a href="https://github.com/wervlad">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdo-Mohammed-10&theme=transparent" />
-  </a>
-  <a href="https://github.com/wervlad">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdo-Mohammed-10&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/wervlad">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdo-Mohammed-10&theme=transparent" />
-  </a>
-  <a href="https://github.com/wervlad">
-  </p>
-    <br>
- <br>
- <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdo-Mohammed-10&layout=compact&hide=html&theme=dracula"/>
- 
-  
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Abdo-Mohammed-10&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
-  </P><br>
-  
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/main/src/header_.png" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdo-Mohammed-10&hide_border=true&card_width=400&theme=dracula" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdo-Mohammed-10&layout=compact&hide=html&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdo-Mohammed-10&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BEPb/BEPb/main/src/header_.png" width="100%" />
+</div>
